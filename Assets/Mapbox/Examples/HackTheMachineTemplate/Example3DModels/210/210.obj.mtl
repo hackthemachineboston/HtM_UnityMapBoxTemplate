@@ -1,0 +1,168 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.3.0)
+
+newmtl black
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+
+newmtl blue lights
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+
+newmtl brown steel
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+
+newmtl JoinedMaterial_#16
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+
+newmtl doors
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+
+newmtl flag
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+map_Kd J:/my job/active/PerspectX/new/September/WMEC 16-210/textures/flag US.bmp
+
+newmtl front_hull
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+map_Kd J:/my job/active/PerspectX/new/September/WMEC 16-210/textures/Front_C.jpg
+map_Ks J:/my job/active/PerspectX/new/September/WMEC 16-210/textures/Front_S.jpg
+
+newmtl glas
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 0.3999999761581421
+Ns 25
+illum 2
+
+newmtl glass
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+
+newmtl JoinedMaterial_#21
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl Left_hull
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+map_Kd J:/my job/active/PerspectX/new/September/WMEC 16-210/textures/Left_Side_C.jpg
+map_Ks J:/my job/active/PerspectX/new/September/WMEC 16-210/textures/Side_S.jpg
+bump J:/my job/active/PerspectX/new/September/WMEC 16-210/textures/Side_B.jpg
+map_bump J:/my job/active/PerspectX/new/September/WMEC 16-210/textures/Side_B.jpg
+
+newmtl Low_Deck
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+map_Kd J:/my job/active/PerspectX/new/September/WMEC 16-210/textures/Low_Deck_C.jpg
+
+newmtl lights2
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+
+newmtl orange
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl Rear_hull
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+map_Kd J:/my job/active/PerspectX/new/September/WMEC 16-210/textures/Rear_C.jpg
+
+newmtl Right_Hull
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+map_Kd J:/my job/active/PerspectX/new/September/WMEC 16-210/textures/Right_Side_C.jpg
+map_Ks J://my job/active/PerspectX/new/September/WMEC 16-210/textures/Side_S.jpg
+bump J://my job/active/PerspectX/new/September/WMEC 16-210/textures/Side_B.jpg
+map_bump J://my job/active/PerspectX/new/September/WMEC 16-210/textures/Side_B.jpg
+
+newmtl rubber
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 25
+illum 2
+
+newmtl TOP_Deck
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+map_Kd J:/my job/active/PerspectX/new/September/WMEC 16-210/textures/Top_Deck_C.jpg
+map_Ks J:/my job/active/PerspectX/new/September/WMEC 16-210/textures/Top_Deck_S.jpg
+
+newmtl trims
+Kd 0.0470588244497776 0.0470588244497776 0.0470588244497776
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+

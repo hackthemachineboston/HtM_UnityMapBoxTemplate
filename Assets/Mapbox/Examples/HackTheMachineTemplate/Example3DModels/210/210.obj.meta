@@ -1,0 +1,149 @@
+fileFormatVersion: 2
+guid: 69ea668054e982748b00d77b18add00c
+timeCreated: 1505841439
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: anchor
+    100004: boats
+    100006: cabin
+    100008: engine
+    100010: fences
+    100012: flag
+    100014: gun
+    100016: ladders
+    100018: lights
+    100020: main_hull
+    100022: props
+    100024: radios
+    100026: utilities
+    400000: //RootNode
+    400002: anchor
+    400004: boats
+    400006: cabin
+    400008: engine
+    400010: fences
+    400012: flag
+    400014: gun
+    400016: ladders
+    400018: lights
+    400020: main_hull
+    400022: props
+    400024: radios
+    400026: utilities
+    2300000: anchor
+    2300002: boats
+    2300004: cabin
+    2300006: engine
+    2300008: fences
+    2300010: flag
+    2300012: gun
+    2300014: ladders
+    2300016: lights
+    2300018: main_hull
+    2300020: props
+    2300022: radios
+    2300024: utilities
+    3300000: anchor
+    3300002: boats
+    3300004: cabin
+    3300006: engine
+    3300008: fences
+    3300010: flag
+    3300012: gun
+    3300014: ladders
+    3300016: lights
+    3300018: main_hull
+    3300020: props
+    3300022: radios
+    3300024: utilities
+    4300000: anchor
+    4300002: boats
+    4300004: cabin
+    4300006: engine
+    4300008: fences
+    4300010: flag
+    4300012: gun
+    4300014: ladders
+    4300016: lights
+    4300018: main_hull
+    4300020: props
+    4300022: radios
+    4300024: utilities
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

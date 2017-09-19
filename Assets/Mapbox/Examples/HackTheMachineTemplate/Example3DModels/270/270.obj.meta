@@ -1,0 +1,179 @@
+fileFormatVersion: 2
+guid: 0d7daac248b49da49951724a497529b9
+timeCreated: 1505840348
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: //RootNode
+    100002: Anchor
+    100004: cargo_cabin
+    100006: engine
+    100008: Equipments
+    100010: fences_1
+    100012: Fences_2
+    100014: Flag
+    100016: Gun
+    100018: Ladders
+    100020: Life_Boat
+    100022: Life_support
+    100024: Main_hull
+    100026: Mooring_post
+    100028: propellers
+    100030: Radars
+    100032: Radios
+    100034: ropes
+    100036: Surveilance_cameras
+    100038: Tower
+    400000: //RootNode
+    400002: Anchor
+    400004: cargo_cabin
+    400006: engine
+    400008: Equipments
+    400010: fences_1
+    400012: Fences_2
+    400014: Flag
+    400016: Gun
+    400018: Ladders
+    400020: Life_Boat
+    400022: Life_support
+    400024: Main_hull
+    400026: Mooring_post
+    400028: propellers
+    400030: Radars
+    400032: Radios
+    400034: ropes
+    400036: Surveilance_cameras
+    400038: Tower
+    2300000: Anchor
+    2300002: cargo_cabin
+    2300004: engine
+    2300006: Equipments
+    2300008: fences_1
+    2300010: Fences_2
+    2300012: Flag
+    2300014: Gun
+    2300016: Ladders
+    2300018: Life_Boat
+    2300020: Life_support
+    2300022: Main_hull
+    2300024: Mooring_post
+    2300026: propellers
+    2300028: Radars
+    2300030: Radios
+    2300032: ropes
+    2300034: Surveilance_cameras
+    2300036: Tower
+    3300000: Anchor
+    3300002: cargo_cabin
+    3300004: engine
+    3300006: Equipments
+    3300008: fences_1
+    3300010: Fences_2
+    3300012: Flag
+    3300014: Gun
+    3300016: Ladders
+    3300018: Life_Boat
+    3300020: Life_support
+    3300022: Main_hull
+    3300024: Mooring_post
+    3300026: propellers
+    3300028: Radars
+    3300030: Radios
+    3300032: ropes
+    3300034: Surveilance_cameras
+    3300036: Tower
+    4300000: Anchor
+    4300002: cargo_cabin
+    4300004: engine
+    4300006: Equipments
+    4300008: fences_1
+    4300010: Fences_2
+    4300012: Flag
+    4300014: Gun
+    4300016: Ladders
+    4300018: Life_Boat
+    4300020: Life_support
+    4300022: Main_hull
+    4300024: Mooring_post
+    4300026: propellers
+    4300028: Radars
+    4300030: Radios
+    4300032: ropes
+    4300034: Surveilance_cameras
+    4300036: Tower
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

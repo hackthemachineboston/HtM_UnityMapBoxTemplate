@@ -1,0 +1,159 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.3.0)
+
+newmtl black
+Kd 0.08156862854957581 0.1066666767001152 0.0878431424498558
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 30.25
+illum 2
+
+newmtl blue
+Kd 0.1129411831498146 0.2572549283504486 0.7529411911964417
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+
+newmtl chrome
+Kd 0.9529411792755127 0.9529411792755127 0.9529411792755127
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 30.25
+illum 2
+
+newmtl Default
+Kd 0.5678431391716003 0.5803921818733215 0.58980393409729
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 30.25
+illum 2
+
+newmtl front
+Kd 0.3043137490749359 0.6431372761726379 0.3482353091239929
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 30.25
+illum 2
+map_Kd J:/my job/active/PerspectX/new/August/LRI/textures/LRI_FRONT_C.jpg
+map_Ks J:/my job/active/PerspectX/new/August/LRI/textures/LRI_FRONT_S.jpg
+bump J:/my job/active/PerspectX/new/August/LRI/textures/LRI_FRONT_B.jpg
+map_bump J:/my job/active/PerspectX/new/August/LRI/textures/LRI_FRONT_B.jpg
+
+newmtl glass
+Kd 0.4611764848232269 0.570980429649353 0.6054902076721191
+Ks 1 1 1
+Ke 0 0 0
+d 0.199999988079071
+Ns 30.25
+illum 2
+
+newmtl JoinedMaterial_#17
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 25
+illum 2
+
+newmtl inside walls
+Kd 0.5270588397979736 0.520784318447113 0.520784318447113
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 30.25
+illum 2
+
+newmtl interior
+Kd 0.6933333277702332 0.6525490283966064 0.4266667068004608
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 30.25
+illum 2
+
+newmtl left side
+Kd 0.7090196013450623 0.6745098233222961 0.2352941334247589
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 30.25
+illum 2
+map_Kd J:/my job/active/PerspectX/new/August/LRI/textures/LRI_LEFT_C.jpg
+map_Ks J:/my job/active/PerspectX/new/August/LRI/textures/LRI_LEFT_S.jpg
+bump J:/my job/active/PerspectX/new/August/LRI/textures/LRI_LEFT_B.jpg
+map_bump J:/my job/active/PerspectX/new/August/LRI/textures/LRI_LEFT_B.jpg
+
+newmtl metal
+Kd 0.4266667068004608 0.4674510061740875 0.5082353353500366
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+
+newmtl orange
+Kd 0.800000011920929 0.2290196269750595 0.1474509835243225
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 30.25
+illum 2
+
+newmtl rear
+Kd 0.7905882596969604 0.3576470613479614 0.3670588433742523
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 30.25
+illum 2
+map_Kd J:/my job/active/PerspectX/new/August/LRI/textures/LRI_REAR_C.jpg
+map_Ks J:/my job/active/PerspectX/new/August/LRI/textures/LRI_REAR_S.jpg
+bump J:/my job/active/PerspectX/new/August/LRI/textures/LRI_REAR_B.jpg
+map_bump J:/my job/active/PerspectX/new/August/LRI/textures/LRI_REAR_B.jpg
+
+newmtl right side
+Kd 0.5866667032241821 0.2823529541492462 0.661960780620575
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 30.25
+illum 2
+map_Kd J:/my job/active/PerspectX/new/August/LRI/textures/LRI_RIGHT_C.jpg
+map_Ks J:///my job/active/PerspectX/new/August/LRI/textures/LRI_LEFT_S.jpg
+bump J:///my job/active/PerspectX/new/August/LRI/textures/LRI_LEFT_B.jpg
+map_bump J:///my job/active/PerspectX/new/August/LRI/textures/LRI_LEFT_B.jpg
+
+newmtl rubber
+Kd 0.8588235378265381 0.1764705926179886 0.1019607856869698
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 25
+illum 2
+
+newmtl top
+Kd 0.4172549247741699 0.5396078824996948 0.6776470541954041
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 30.25
+illum 2
+map_Kd J:/my job/active/PerspectX/new/August/LRI/textures/LRI_TOP_C.jpg
+map_Ks J:/my job/active/PerspectX/new/August/LRI/textures/LRI_TOP_S.jpg
+bump J:/my job/active/PerspectX/new/August/LRI/textures/LRI_TOP_B.jpg
+map_bump J:/my job/active/PerspectX/new/August/LRI/textures/LRI_TOP_B.jpg
+
+newmtl trims
+Kd 0.2290196269750595 0.2290196269750595 0.2290196269750595
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 30.25
+illum 2
+

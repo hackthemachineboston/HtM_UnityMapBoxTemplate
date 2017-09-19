@@ -1,0 +1,229 @@
+fileFormatVersion: 2
+guid: e4fd5cde7f6f31246aa55dde91b8abaa
+timeCreated: 1505840410
+licenseType: Pro
+ModelImporter:
+  serializedVersion: 21
+  fileIDToRecycleName:
+    100000: CenterBar
+    100002: CenterConsole
+    100004: Console
+    100006: Flag
+    100008: FlagLine
+    100010: FlagStand
+    100012: FrontA
+    100014: InsideHull
+    100016: LeftSpindle
+    100018: LeftSpindle1
+    100020: Line1
+    100022: Line2
+    100024: OutsideHull
+    100026: pCube2
+    100028: Preserver
+    100030: RearA
+    100032: RearBar
+    100034: RubberHull
+    100036: Seat1
+    100038: Seat2
+    100040: Seat3
+    100042: Seat4
+    100044: Seat5
+    100046: Seat6
+    100048: ShortRangeAntenna
+    100050: Siren4
+    100052: Siren5
+    100054: //RootNode
+    100056: SteeringWheel
+    100058: TopBar
+    400000: CenterBar
+    400002: CenterConsole
+    400004: Console
+    400006: Flag
+    400008: FlagLine
+    400010: FlagStand
+    400012: FrontA
+    400014: InsideHull
+    400016: LeftSpindle
+    400018: LeftSpindle1
+    400020: Line1
+    400022: Line2
+    400024: OutsideHull
+    400026: pCube2
+    400028: Preserver
+    400030: RearA
+    400032: RearBar
+    400034: RubberHull
+    400036: Seat1
+    400038: Seat2
+    400040: Seat3
+    400042: Seat4
+    400044: Seat5
+    400046: Seat6
+    400048: ShortRangeAntenna
+    400050: Siren4
+    400052: Siren5
+    400054: //RootNode
+    400056: SteeringWheel
+    400058: TopBar
+    2300000: CenterBar
+    2300002: CenterConsole
+    2300004: Console
+    2300006: Flag
+    2300008: FlagLine
+    2300010: FlagStand
+    2300012: FrontA
+    2300014: InsideHull
+    2300016: LeftSpindle
+    2300018: LeftSpindle1
+    2300020: Line1
+    2300022: Line2
+    2300024: OutsideHull
+    2300026: pCube2
+    2300028: Preserver
+    2300030: RearA
+    2300032: RearBar
+    2300034: RubberHull
+    2300036: Seat1
+    2300038: Seat2
+    2300040: Seat3
+    2300042: Seat4
+    2300044: Seat5
+    2300046: Seat6
+    2300048: ShortRangeAntenna
+    2300050: Siren4
+    2300052: Siren5
+    2300054: SteeringWheel
+    2300056: TopBar
+    3300000: CenterBar
+    3300002: CenterConsole
+    3300004: Console
+    3300006: Flag
+    3300008: FlagLine
+    3300010: FlagStand
+    3300012: FrontA
+    3300014: InsideHull
+    3300016: LeftSpindle
+    3300018: LeftSpindle1
+    3300020: Line1
+    3300022: Line2
+    3300024: OutsideHull
+    3300026: pCube2
+    3300028: Preserver
+    3300030: RearA
+    3300032: RearBar
+    3300034: RubberHull
+    3300036: Seat1
+    3300038: Seat2
+    3300040: Seat3
+    3300042: Seat4
+    3300044: Seat5
+    3300046: Seat6
+    3300048: ShortRangeAntenna
+    3300050: Siren4
+    3300052: Siren5
+    3300054: SteeringWheel
+    3300056: TopBar
+    4300000: CenterBar
+    4300002: CenterConsole
+    4300004: Console
+    4300006: Flag
+    4300008: FlagLine
+    4300010: FlagStand
+    4300012: FrontA
+    4300014: InsideHull
+    4300016: LeftSpindle
+    4300018: LeftSpindle1
+    4300020: Line1
+    4300022: Line2
+    4300024: OutsideHull
+    4300026: pCube2
+    4300028: Preserver
+    4300030: RearA
+    4300032: RearBar
+    4300034: RubberHull
+    4300036: Seat1
+    4300038: Seat2
+    4300040: Seat3
+    4300042: Seat4
+    4300044: Seat5
+    4300046: Seat6
+    4300048: ShortRangeAntenna
+    4300050: Siren4
+    4300052: Siren5
+    4300054: SteeringWheel
+    4300056: TopBar
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 1
+    keepQuads: 0
+    weldVertices: 1
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 

@@ -1,0 +1,104 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.3.0)
+
+newmtl RubberHullTex
+Kd 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl BlackRubber
+Kd 0.09917999804019928 0.09917999804019928 0.09917999804019928
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl JoinedMaterial_#4
+Kd 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl Chrome
+Kd 0.06473500281572342 0.06473500281572342 0.1070000007748604
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl PowderWhite
+Kd 0.7669439911842346 0.7669439911842346 0.7669439911842346
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl FlatCharcoal
+Kd 0.1322240084409714 0.1322240084409714 0.1322240084409714
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl BlueHeadlight
+Kd 0 0 0.5619840025901794
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl RedHeadlight
+Kd 0.800000011920929 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl GlossBlack
+Kd 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl DullWhite
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl FlagTex
+Kd 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl Rubber
+Kd 0.8588235974311829 0.1764706075191498 0.101960800588131
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl Glass
+Kd 0.007843137718737125 0.03333333507180214 0.04509804025292397
+Ks 1 1 1
+Ke 0 0 0
+d 0.3999999761581421
+Ns 1
+illum 2
+

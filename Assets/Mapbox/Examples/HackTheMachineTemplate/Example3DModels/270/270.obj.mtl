@@ -1,0 +1,170 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.3.0)
+
+newmtl glass
+Kd 0.2980392277240753 0.2980392277240753 0.2980392277240753
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+
+newmtl Rear_color
+Kd 0.7623529434204102 0.7529411911964417 0.3701960742473602
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+map_Kd J:/my job/active/PerspectX/new/September/WMEC 16-270/Textures/WMEC_REAR_COLOR.jpg
+map_Ks J:/my job/active/PerspectX/new/September/WMEC 16-270/Textures/WMEC_REAR_SPECULAR.psd
+
+newmtl Front_color
+Kd 0.2039215862751007 0.2603921592235565 0.7686274647712708
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+map_Kd J:/my job/active/PerspectX/new/September/WMEC 16-270/Textures/WMEC_FRONT_COLOR.jpg
+map_Ks J:/my job/active/PerspectX/new/September/WMEC 16-270/Textures/WMEC_FRONT_SPECULAR.jpg
+
+newmtl Left_Color
+Kd 0.3011764883995056 0.6745098233222961 0.661960780620575
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+map_Kd J:/my job/active/PerspectX/new/September/WMEC 16-270/Textures/WMEC_LEFT_COLOR.jpg
+map_Ks J:/my job/active/PerspectX/new/September/WMEC 16-270/Textures/WMEC_SPECULAR.jpg
+
+newmtl Right_color
+Kd 0.7560784220695496 0.5270588397979736 0.2164705991744995
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+map_Kd J:/my job/active/PerspectX/new/September/WMEC 16-270/Textures/WMEC_RIGHT_COLOR.jpg
+map_Ks J://my job/active/PerspectX/new/September/WMEC 16-270/Textures/WMEC_SPECULAR.jpg
+
+newmtl Top_Color
+Kd 0.4862745404243469 0.6682353019714355 0.3074509799480438
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+map_Kd J:/my job/active/PerspectX/new/September/WMEC 16-270/Textures/WMEC_TOP_COLOR.jpg
+map_Ks J:/my job/active/PerspectX/new/September/WMEC 16-270/Textures/WMEC_TOP_SPECULAR.jpg
+
+newmtl JoinedMaterial_#21
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+
+newmtl Black
+Kd 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+
+newmtl WhitePaint
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 18.67906188964844
+illum 2
+
+newmtl WhiteCloth
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl LHSide
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 18.67906188964844
+illum 2
+
+newmtl Door_compartment
+Kd 0.6525490283966064 0.3952941298484802 0.7372549176216125
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+map_Kd J:/my job/active/PerspectX/new/September/WMEC 16-270/Textures/TEX_Door.bmp
+
+newmtl Charcoal
+Kd 0.0793439969420433 0.0793439969420433 0.0793439969420433
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl trims
+Kd 0.0470588244497776 0.0470588244497776 0.0470588244497776
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+
+newmtl brown steel
+Kd 0.6337255239486694 0.5364705920219421 0.338823527097702
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+
+newmtl Steel
+Kd 0.3284054100513458 0.3218042850494385 0.3438080251216888
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl orange
+Kd 0.7843137383460999 0.3098039329051971 0.0235294122248888
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl rubber
+Kd 0.8588235378265381 0.1764705926179886 0.1019607856869698
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 25
+illum 2
+
+newmtl BlackSemiGloss
+Kd 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl flag
+Kd 0.4141176640987396 0.5270588397979736 0.7341176867485046
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 64
+illum 2
+map_Kd J:/my job/active/PerspectX/new/September/WMEC 16-210/textures/flag US.bmp
+

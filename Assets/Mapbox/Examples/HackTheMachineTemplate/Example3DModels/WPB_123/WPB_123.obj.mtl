@@ -1,0 +1,150 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.3.0)
+
+newmtl WPB_123_TEX_LH
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+map_Kd TEX_LHC.jpg
+
+newmtl WPB_123_TEX_RH
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+map_Kd TEX_RHC.jpg
+
+newmtl WPB_123_Aluminum
+Kd 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl WPB_123_FloorGray
+Kd 0.5647059082984924 0.5647059082984924 0.5647059082984924
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl WPB_123_TEX_REAR
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+map_Kd TEX_REAR.jpg
+
+newmtl WPB_123_TEX_CREAM
+Kd 0.7568627595901489 0.6039215922355652 0.4509804248809814
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl WPB_123_TEX_TOP
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd TEX_TOPC.jpg
+
+newmtl WPB_123_GlossBlack
+Kd 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl WPB_123_HULL
+Kd 0.75 0.75 0.75
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl JoinedMaterial_#10
+Kd 0.784000039100647 0.4120531976222992 0.06036802008748055
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl WPB_123_chrome
+Kd 0.06473500281572342 0.06473500281572342 0.1070000007748604
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl WPB_123_Glass
+Kd 0.007843137718737125 0.03333333507180214 0.04509804025292397
+Ks 1 1 1
+Ke 0 0 0
+d 0.3999999761581421
+Ns 1
+illum 2
+
+newmtl WPB_123_Rubber
+Kd 0.8588235974311829 0.1764706075191498 0.101960800588131
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl WPB_123_TEX_OSP
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+map_Kd TEX_OSP.jpg
+
+newmtl WPB_123_FlagTex
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd TEX_FLGC.jpg
+
+newmtl WPB_123_BlackRubber
+Kd 0.1921568661928177 0.1921568661928177 0.1921568661928177
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl WPB_123_BlueHeadlight
+Kd 0 0 0.5619840025901794
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl WPB_123_RedHeadlight
+Kd 0.5615686774253845 0.00313725508749485 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+

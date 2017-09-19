@@ -1,0 +1,149 @@
+# File produced by Open Asset Import Library (http://www.assimp.sf.net)
+# (assimp v3.3.0)
+
+newmtl TEX_RHS
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+map_Kd TEX_RHC.jpg
+
+newmtl HullBlinn
+Kd 0.75 0.75 0.75
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl TEX_LHS
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+map_Kd TEX_LHC.jpg
+
+newmtl Aluminum
+Kd 0.4000000059604645 0.4000000059604645 0.4000000059604645
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl TintedGlass
+Kd 0.2115679979324341 0.2115679979324341 0.2115679979324341
+Ks 1 1 1
+Ke 0 0 0
+d 0.8347200155258179
+Ns 1
+illum 2
+
+newmtl BlackRubber
+Kd 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl GenericSteel
+Kd 0.1957197785377502 0.1917857378721237 0.2048992812633514
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl Charcoal
+Kd 0.0793439969420433 0.0793439969420433 0.0793439969420433
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl GlossBlack
+Kd 0 0 0
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl ConstructionYellow
+Kd 0.7074400186538696 0.7074400186538696 0.3409860730171204
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl AnchorThingie:TEX_CREAM
+Kd 0.7568627595901489 0.6039215922355652 0.4509804248809814
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl WhiteCloth
+Kd 0.800000011920929 0.800000011920929 0.800000011920929
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_d TEX_SQCr.jpg
+
+newmtl GarageDoor
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+map_Kd TEX_Door.jpg
+
+newmtl OrangeRubber
+Kd 0.7594577074050903 0.1560529619455338 0.0901639387011528
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl FlatOrange
+Kd 0.784000039100647 0.4120531976222992 0.06036802008748055
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+
+newmtl Brass
+Kd 0.2677680253982544 0.2214360982179642 0.1911863684654236
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl Chrome
+Kd 0.03317021206021309 0.03317021206021309 0.05482679605484009
+Ks 1 1 1
+Ke 0 0 0
+d 1
+Ns 1
+illum 2
+
+newmtl TEX_DECK
+Kd 1 1 1
+Ks 1 1 1
+Ke 0 0 0
+d 1
+illum 1
+map_Kd TEX_TOP.jpg
+
